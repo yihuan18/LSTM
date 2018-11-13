@@ -1,0 +1,4 @@
+scp ./lstm_train.py cl:/home/cl/ai_fuzz/lstm
+scp ./lstm.py cl:/home/cl/ai_fuzz/lstm
+scp ./fileTransform.py cl:/home/cl/ai_fuzz/lstm
+scp ./generateInput.py cl:/home/cl/ai_fuzz/lstm

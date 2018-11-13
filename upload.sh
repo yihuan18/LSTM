@@ -1,0 +1,1 @@
+rsync -ave ssh ./* sangfor:/home/choco/AI_FUZZ/lstm/
